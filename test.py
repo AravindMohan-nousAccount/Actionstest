@@ -1,5 +1,3 @@
-def('hai')
-  return def
 
 def(a,b)
     return a+b
